@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaydeeJR
 - 👀 I’m interested in computer programming especially using Java and Python
-- 🌱 I’m currently learning Android App Development
+- 🌱 I’m an Android App Developer
 - 💞️ I’m looking to collaborate on Machine learning projects
 
 <!---
