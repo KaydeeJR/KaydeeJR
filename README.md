@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaydeeJR
 - 👀 I’m interested in OOP using Kotlin and Python
-- 🌱 I’m an Android Developer
+- 🌱 I’m a Junior Data Engineer | Android Developer
 - 💞️ I’m looking to collaborate on Data Science projects
 
 <!---
