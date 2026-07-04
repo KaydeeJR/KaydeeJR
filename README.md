@@ -10,7 +10,7 @@
   * Retrieval-Augmented Generation (RAG) pipelines and systems
   * Graph algorithms, layouts, and visualisation
   * Global Navigation Satellite Systems (GNSS)
-* I'm looking to collaborate on **Data Engineering**, **Open Source**, **Data Science**, **Geospatial**, and **Full-Stack** projects.
+* I'm looking to collaborate on **Data Engineering**, **Open Source**, **Data Science**, **GNSS**, and **Full-Stack** projects.
 * Feel free to connect to discuss interesting ideas and collaborations.
 
 ### Tech Stack
